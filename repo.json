@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "LeonBlade",
+    "Name": "HeelsPlugin",
+    "Description": "Offsetting the character upwards, when wearing certain gear.",
+    "Punchline": "SASAL.",
+    "InternalName": "HeelsPlugin",
+    "AssemblyVersion": "1.3.4",
+    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "heels",
+      "shoes",
+      "float",
+      "gear",
+      "clothing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 10,
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1720688557,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
+  }
+]
